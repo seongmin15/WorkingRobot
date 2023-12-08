@@ -102,7 +102,7 @@
 - 내용 추가 필요
 
 ## 🏹 시스템 아키텍처
-![image_waifu2x_art_noise2](/reame_image/image1.png)
+![image_waifu2x_art_noise2](/readme_image/image1.png)
 ---
 
 
@@ -157,62 +157,62 @@
 ---
 
 ### 최초 화면
-<img src="/reame_image/image2.png" width="200" height="400"/>
+<img src="/readme_image/image2.png" width="200" height="400"/>
 
 ### 회원가입
-<img src="/reame_image/image3.png" width="200" height="400"/>
-<img src="/reame_image/image4.png" width="200" height="400"/>
+<img src="/readme_image/image3.png" width="200" height="400"/>
+<img src="/readme_image/image4.png" width="200" height="400"/>
 
 
 ### 로그인
-<img src="/reame_image/image5.png" width="200" height="400"/>
+<img src="/readme_image/image5.png" width="200" height="400"/>
 
 ### 메인페이지(쓰레기통 비우기 미신청)
-<img src="/reame_image/image6.png" width="200" height="400"/>
+<img src="/readme_image/image6.png" width="200" height="400"/>
 
 ### 메인페이지(쓰레기통 비우기 신청시)
-<img src="/reame_image/image7.png" width="200" height="400"/>
+<img src="/readme_image/image7.png" width="200" height="400"/>
 
 ### 회의실페이지(미신청)
-<img src="/reame_image/image8.png" width="200" height="400"/>
+<img src="/readme_image/image8.png" width="200" height="400"/>
 
 ### 회의실페이지(회의실 신청)
-<img src="/reame_image/image9.png" width="200" height="400"/>
+<img src="/readme_image/image9.png" width="200" height="400"/>
 
 ### 회의실페이지(신청 완료)
-<img src="/reame_image/image10.png" width="200" height="400"/>
+<img src="/readme_image/image10.png" width="200" height="400"/>
 
 ### 소통페이지
-<img src="/reame_image/image11.png" width="200" height="400"/>
-<img src="/reame_image/image12.png" width="200" height="400"/>
+<img src="/readme_image/image11.png" width="200" height="400"/>
+<img src="/readme_image/image12.png" width="200" height="400"/>
 
 ### 시스템 알림 페이지
-<img src="/reame_image/image13.png" width="200" height="400"/>
+<img src="/readme_image/image13.png" width="200" height="400"/>
 
 ### 모바일 알림
-<img src="/reame_image/image14.png" width="200" height="400"/>
+<img src="/readme_image/image14.png" width="200" height="400"/>
 
 ### 투표 페이지(진행중)
-<img src="/reame_image/image15.png" width="200" height="400"/>
+<img src="/readme_image/image15.png" width="200" height="400"/>
 
 ### 투표 페이지(투표 종료/완료)
-<img src="/reame_image/image16.png" width="200" height="400"/>
+<img src="/readme_image/image16.png" width="200" height="400"/>
 
 ### 마이페이지(메인)
-<img src="/reame_image/image17.png" width="200" height="400"/>
+<img src="/readme_image/image17.png" width="200" height="400"/>
 
 ### 마이페이지(비밀번호 변경)
-<img src="/reame_image/image18.png" width="200" height="400"/>
+<img src="/readme_image/image18.png" width="200" height="400"/>
 
 ### 마이페이지(닉네임 변경)
-<img src="/reame_image/image19.png" width="200" height="400"/>
+<img src="/readme_image/image19.png" width="200" height="400"/>
 
 ## 🖥️ 화면 설계서
-![화면설계서](/reame_image/image20.png)
+![화면설계서](/readme_image/image20.png)
 ---
 
 ## ⚙️ ERD
-![ERD](/reame_image/image21.png)
+![ERD](/readme_image/image21.png)
 ---
 
 ## ⚙️ ROS 플로우 차트
