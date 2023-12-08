@@ -1,0 +1,49 @@
+spring:
+  application:
+    name: wor
+  profiles:
+    active: dev
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://j9c103.p.ssafy.io:3306/wor?serverTimezone=Asia/Seoul
+    username: wor
+    password: workingrobot
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+    database-platform: org.hibernate.dialect.MySQLDialect
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled=true
+
+server:
+  port: 8080
+
+---
+
+spring:
+  application:
+    name: wor
+  profiles:
+    active: prod
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://j9c103.p.ssafy.io:3306/wor?serverTimezone=Asia/Seoul
+    username: wor
+    password: workingrobot
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+    database-platform: org.hibernate.dialect.MySQLDialect
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled=true
+
+server:
+  port: 8080
