@@ -216,5 +216,5 @@
 ---
 
 ## ⚙️ ROS 플로우 차트
-![ROS_flowchart](/reame_image/image22.png)
+![ROS_flowchart](/readme_image/image22.png)
 ---
